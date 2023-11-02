@@ -1,0 +1,12 @@
+{
+  "name": "mimoto-webpack-toolkit",
+  "version": "1.0.0",
+  "description": "Mimoto Webpack Toolkit",
+  "engines": {
+    "node": "16"
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "private": false
+}
