@@ -6,4 +6,4 @@ Frequently used [Mimoto](https://thesocialcode.com/mimoto) modules for [Webpack]
 
 - MimotoWebpackDoneNotification - A tiny utility showing the timestamp of the last compile.
 
-For more information on how to use these components, see [Mimoto Webpack Toolkit - Modules](https://github.com/TheSocialCode/Mimoto-Webpack-Toolkit/wiki/Modules)
+For more information on how to use these components, see [Mimoto Webpack Toolkit - Modules](https://github.com/TheSocialCode/Mimoto-Webpack-Toolkit/wiki
