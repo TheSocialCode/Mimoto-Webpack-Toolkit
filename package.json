@@ -1,5 +1,5 @@
 {
-  "name": "mimoto-webpack-toolkit",
+  "name": "@thesocialcode/mimoto-webpack-toolkit",
   "version": "1.0.0",
   "description": "Mimoto Webpack Toolkit",
   "engines": {
@@ -8,5 +8,5 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {},
-  "private": false
+  "public": true
 }
